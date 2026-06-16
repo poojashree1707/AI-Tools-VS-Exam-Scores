@@ -19,6 +19,10 @@
 
 ## Screenshots
 
+### The output of df.columns displays all the column names present in my dataset. Each column represents a specific type of information collected from participants.
+
+<img width="957" height="170" alt="image" src="https://github.com/user-attachments/assets/7f677b96-8975-4fe6-90f9-1fcf28b7e28c" />
+
 ### This bar chart compares scores before and after using AI tools
 
 <img width="722" height="513" alt="Screenshot 2026-06-16 153619" src="https://github.com/user-attachments/assets/85452407-a025-4177-bab0-dbe477ec316e" />
@@ -33,6 +37,8 @@
 <img width="851" height="616" alt="Screenshot 2026-06-16 153708" src="https://github.com/user-attachments/assets/643c5387-b0ff-4a79-8f29-b38c106236fe" />
 
 ### Average Scores Before and After AI Usage
+
+<img width="523" height="165" alt="image" src="https://github.com/user-attachments/assets/5447ea17-de17-41c2-8abd-968bd6fe67d9" />
 
 <img width="566" height="191" alt="Screenshot 2026-06-16 154235" src="https://github.com/user-attachments/assets/d2d74ede-7cd3-4474-8d92-dde7766789d4" />
 
