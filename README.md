@@ -51,7 +51,7 @@
 <img width="810" height="587" alt="Screenshot 2026-06-16 154150" src="https://github.com/user-attachments/assets/31e94314-1437-4a14-9652-cdc9d7831002" />
 
 ### The chart illustrates the gender composition of the participants involved in the study.
-### Both male and female participants are well represented, creating a balanced sample group.
+Both male and female participants are well represented, creating a balanced sample group.
 
 
 
