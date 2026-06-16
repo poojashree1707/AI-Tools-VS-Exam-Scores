@@ -24,7 +24,7 @@
 <img width="722" height="513" alt="Screenshot 2026-06-16 153619" src="https://github.com/user-attachments/assets/85452407-a025-4177-bab0-dbe477ec316e" />
 
 ## Types of AI Tools
-### This bar chart shows how frequently different AI tools were used.
+### This bar chart shows how frequently different AI tools were used and what type of the tools are used most often.
 
 <img width="760" height="618" alt="Screenshot 2026-06-16 153647" src="https://github.com/user-attachments/assets/cc947366-ff29-4dfb-be22-6d70b6b0df32" />
 
