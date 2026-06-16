@@ -18,18 +18,19 @@
 ### Which AI tools are most commonly used
 
 ## Screenshots
-<img width="722" height="513" alt="Screenshot 2026-06-16 153619" src="https://github.com/user-attachments/assets/85452407-a025-4177-bab0-dbe477ec316e" />
 
 ### This bar chart compares scores before and after using AI tools
 
-<img width="760" height="618" alt="Screenshot 2026-06-16 153647" src="https://github.com/user-attachments/assets/cc947366-ff29-4dfb-be22-6d70b6b0df32" />
+<img width="722" height="513" alt="Screenshot 2026-06-16 153619" src="https://github.com/user-attachments/assets/85452407-a025-4177-bab0-dbe477ec316e" />
 
 ## Types of AI Tools
 ### This bar chart shows how frequently different AI tools were used.
 
-<img width="851" height="616" alt="Screenshot 2026-06-16 153708" src="https://github.com/user-attachments/assets/643c5387-b0ff-4a79-8f29-b38c106236fe" />
+<img width="760" height="618" alt="Screenshot 2026-06-16 153647" src="https://github.com/user-attachments/assets/cc947366-ff29-4dfb-be22-6d70b6b0df32" />
 
 ### Although many participants are using AI tools, the majority of the surveyed group still do not use AI. This highlights an opportunity to increase awareness and adoption of AI technologies.
+
+<img width="851" height="616" alt="Screenshot 2026-06-16 153708" src="https://github.com/user-attachments/assets/643c5387-b0ff-4a79-8f29-b38c106236fe" />
 
 ### Average Scores Before and After AI Usage
 
@@ -45,9 +46,6 @@
 
 ### The chart illustrates the gender composition of the participants involved in the study.
 ### Both male and female participants are well represented, creating a balanced sample group.
-
-
-
 
 
 
