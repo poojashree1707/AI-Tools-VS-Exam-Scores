@@ -5,17 +5,17 @@
 ### This dataset analyzes how the usage of AI tools impacts student academic performance. It compares grades before using AI tools and grades after using AI tools, along with study habits, screen time, and demographic details.
 
 ## Dataset Information:
-### File Name: AI TOOLS VS EXAMS SCORES.csv
-### Format: CSV
-### Purpose: Educational data analysis on AI usage impact
+### • File Name: AI TOOLS VS EXAMS SCORES.csv
+### • Format: CSV
+### • Purpose: Educational data analysis on AI usage impact
 
 ## Objective of the Dataset:
-### To analyze improvement in marks after using AI tools
-### To study the relationship between AI usage and academic performance
+### ➜ To analyze improvement in marks after using AI tools
+### ➜ To study the relationship between AI usage and academic performance
 
 ## Key Insights You Can Explore:
-### Grade improvement after using AI tools
-### Which AI tools are most commonly used
+### ➜ Grade improvement after using AI tools
+### ➜ Which AI tools are most commonly used
 
 ## Screenshots
 
@@ -27,7 +27,7 @@
 
 <img width="722" height="513" alt="Screenshot 2026-06-16 153619" src="https://github.com/user-attachments/assets/85452407-a025-4177-bab0-dbe477ec316e" />
 
-## Types of AI Tools
+## Types of AI Tools:
 ### This bar chart shows how frequently different AI tools were used and what type of the tools are used most often.
 
 <img width="760" height="618" alt="Screenshot 2026-06-16 153647" src="https://github.com/user-attachments/assets/cc947366-ff29-4dfb-be22-6d70b6b0df32" />
@@ -36,7 +36,7 @@
 
 <img width="851" height="616" alt="Screenshot 2026-06-16 153708" src="https://github.com/user-attachments/assets/643c5387-b0ff-4a79-8f29-b38c106236fe" />
 
-### Average Scores Before and After AI Usage
+### Average Scores Before and After AI Usage:
 
 <img width="523" height="165" alt="image" src="https://github.com/user-attachments/assets/5447ea17-de17-41c2-8abd-968bd6fe67d9" />
 
@@ -47,11 +47,11 @@
 ### Average After AI: 74.88
 
 
-## Gender count
+## Gender count:
 <img width="810" height="587" alt="Screenshot 2026-06-16 154150" src="https://github.com/user-attachments/assets/31e94314-1437-4a14-9652-cdc9d7831002" />
 
 ### The chart illustrates the gender composition of the participants involved in the study.
-Both male and female participants are well represented, creating a balanced sample group.
+### Both male and female participants are well represented, creating a balanced sample group.
 
 
 
